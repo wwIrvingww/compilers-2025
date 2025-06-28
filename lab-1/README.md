@@ -35,8 +35,9 @@ En este laboratorio trabajarás con **ANTLR**, un generador de analizadores sint
 
 ## 📋 Entregables
 
-- **Video de YouTube no listado** (pero público) con sus pruebas, donde compila bien y donde no compila bien.
-- sus pruebas.
+- Realice un análisis sobre la gramática de ANTLR y el archivo de Driver y comente acerca del funcionamiento de estos, es decir, explique sus partes lo más brevemente posible e indique cómo funcionan los distintos elementos de la gramática escrita en ANTLR, e.g. "Utilizar # en ANTLR sirve para...", "Un archivo .g4 tiene las siguientes secciones...", etc.
+- **Video de YouTube no listado** (pero público) con sus pruebas, donde compila bien y donde no compila bien y con sus comentarios al punto anterior.
+- Repo de Github con todo su código.
 
 ## 🚀 ¿Qué Sigue?
 
