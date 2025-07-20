@@ -1,0 +1,5 @@
+a = 3 < 5;        // OK
+b = "hi" > 2;     // Error
+c = 4 == 4;       // OK
+d = true != 7;    // Error
+
