@@ -1,0 +1,9 @@
+"a veces me gustariaa ser" == true
+8 / "2.0"
+(3 + 2) * "7"
+9.0 - true
+"hello" + 3
+"a" > 12
+true == 3
+1 != false
+"luna" < 9
